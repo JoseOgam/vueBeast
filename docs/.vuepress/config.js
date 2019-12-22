@@ -3,7 +3,7 @@ module.exports = {
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   dest: "./dist",
-  base: "/vue-nice-homepage-page/",
+  base: "/vueBeast/",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
